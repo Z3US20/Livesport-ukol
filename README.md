@@ -13,7 +13,7 @@ tmavé pozadi: #121212 <br />
 tmavý text: #eee <br />
 světlé pozadí: #fff <br />
 světlý text: #222 <br />
-Nejmeší obrazovka je 
+Nejmenší šířka obrazovka: 320px <br>
 
 Přeji hezký den <br />
 Michal Bábela.
