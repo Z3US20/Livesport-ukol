@@ -189,7 +189,7 @@ button:active{
 .box-1,.box-2,.box-3{
  width: 300px;
  height:320px;
- box-shadow:1px 1px 10px green;
+ box-shadow:1px 1px 10px lightgreen;
  align-items: center;
  justify-content: center;
  display: flex;
