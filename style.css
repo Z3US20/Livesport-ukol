@@ -127,6 +127,7 @@ label {
 .text-container p {
   margin: 45px 0px 25px;
   line-height: 0px;
+  max-width: 500px;
 }
 
 .text-container button {
