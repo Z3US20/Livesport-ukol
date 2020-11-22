@@ -7,11 +7,11 @@ Web jsem programoval pomocí HTML/CSS/JS.  JavaScript jsem použil na přepíná
 V soboru images/design jsou obrázky amatérského designu, kterým jsem se řídil. <br>
 
 Základní parametry: <br />
- font: Google font Roboto. <br />
- barvy: <br />
- tmavé pozadi: #121212 <br />
- tmavý text: #eee <br />
- světlé pozadí: #fff <br />
+  font: Google font Roboto. <br />
+  barvy: <br />
+  tmavé pozadi: #121212 <br />
+  tmavý text: #eee <br />
+  světlé pozadí: #fff <br />
 světlý text: #222 <br />
 
 
