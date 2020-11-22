@@ -276,12 +276,14 @@ button:active {
   font-weight: bold;
   color: var(--text-color);
   margin: 40px 0 20px 0;
+  text-align: center;
 }
 
 .hobbies p:nth-child(2) {
   font-size: 15px;
   font-weight: bold;
   color: var(--text-color);
+  text-align: center;
 }
 .hobbies p:nth-child(3) {
   font-size: 15px;
