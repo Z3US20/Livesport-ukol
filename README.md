@@ -2,7 +2,7 @@
 
 Dobrý den, <br />
 zde přikládám hotový úkol k pozici Fe vývojář ITS. <br />
-Webovou stránku jsem vytvořil, na způsob svého blogu, aby jste zjistili, ještě něco málo o mně. <br />
+Webovou stránku jsem vytvořil na způsob svého blogu, aby jste zjistili ještě něco málo o mně. <br />
 Web jsem programoval pomocí HTML/CSS/JS.  JavaScript jsem použil na přepínání tmavého a světlého režimu, který pozná motiv ve Vašem systému a podle toho se nastaví buď na tmavý  nebo světlý režim.<br />
 V soboru images/design jsou obrázky amatérského designu, kterým jsem se řídil. <br>
 
