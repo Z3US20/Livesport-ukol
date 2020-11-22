@@ -55,6 +55,7 @@ nav {
   background: var(--bkg-color);
   box-shadow: 1px 1px 4px var(--text-color);
   padding: 0 5%;
+  margin-bottom: 60px;
 }
 
 nav ul {
@@ -227,19 +228,10 @@ button:active {
   font-weight: bold;
 }
 
-.box-1 p:nth-child(2),
-.box-2 p:nth-child(2),
-.box-3 p:nth-child(2) {
-  color: var(--text-color);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-size: 23px;
-  line-height: 0px;
-}
 
-.box-1 p:nth-child(3),
-.box-2 p:nth-child(3),
-.box-3 p:nth-child(3) {
+.box-1 p,
+.box-2 p,
+.box-3 p {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color: var(--text-color);
@@ -295,12 +287,9 @@ button:active {
   font-size: 15px;
   font-weight: bold;
   color: var(--text-color);
+  text-align: center;
 }
-.hobbies p:nth-child(4) {
-  font-size: 15px;
-  font-weight: bold;
-  color: var(--text-color);
-}
+
 
 /*--Contact-me----------------------------------------------*/
 .contact-me {
