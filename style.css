@@ -151,6 +151,7 @@ label {
   border: 2px solid var(--text-color);
   color: var(--text-color);
   background-color: transparent;
+  cursor: pointer;
 }
 
 button:active {
@@ -267,13 +268,12 @@ button:active {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   margin: 20px 0 15px;
-  line-height: 3px;
+ 
 }
 .hobbies p:nth-child(1) {
   font-size: 40px;
   font-weight: bold;
   color: var(--text-color);
-  line-height: 5px;
   margin: 40px 0 20px 0;
 }
 
@@ -281,19 +281,16 @@ button:active {
   font-size: 15px;
   font-weight: bold;
   color: var(--text-color);
-  line-height: 5px;
 }
 .hobbies p:nth-child(3) {
   font-size: 15px;
   font-weight: bold;
   color: var(--text-color);
-  line-height: 5px;
 }
 .hobbies p:nth-child(4) {
   font-size: 15px;
   font-weight: bold;
   color: var(--text-color);
-  line-height: 5px;
 }
 
 /*--Contact-me----------------------------------------------*/
@@ -337,7 +334,7 @@ footer p {
 footer p:nth-child(1) {
   font-size: 16px;
   color: var(--text-color);
-  width: 600px;
+  max-width: 600px;
   text-align: center;
 }
 
@@ -442,6 +439,7 @@ footer {
   }
   .hobbies {
     padding: 6% 5% 40px 5%;
+    box-sizing: border-box;
   }
   .hobbies p {
     width: 90%;
